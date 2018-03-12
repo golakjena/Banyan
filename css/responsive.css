@@ -1,0 +1,153 @@
+@media (min-width:320px) and (max-width:767px){
+	.header{ background: url(../images/topBannerBg.jpg) left top no-repeat; background-size: cover; padding: 10px; height: 64px;}
+	.header.headerBg{ background: url(../images/topBannerBg.jpg) left top no-repeat; background-size: cover; padding: 10px; height: 64px;}
+	.header.fixHeader{ background: url(../images/topBannerBg.jpg) left top no-repeat; background-size: cover;}
+	.logo{ width: 150px; top: 10px; left: 10px; }
+	.mobileNav{ top: 18px; right: 10px; }
+
+	.homeBanner{ height: auto; padding: 120px 0 60px 0; }
+	.taglineOuter{ transform: none; -moz-transform: none; -webkit-transform: none; top: auto;}
+	.tagLine{ font-size: 22px; }
+	.tagLine span{ padding: 0; }
+
+	.dvAboutUs{ padding: 30px 10px; }
+	.dvAboutUs h3{ font-size: 28px; padding: 0 0 10px 0;}
+	.dvAboutUs h4{ font-size: 15px; padding: 0 0 20px 0;}
+	.dvAboutUs p{ font-size: 15px; line-height: 24px; }
+
+	.portfolioTop{ padding: 50px 0 0 0; }
+	.assetPortfolio h3{ font-size: 28px; padding: 0 0 30px 0; }
+	.assetPortfolioInner{ padding: 0 10px; }
+	.listPortfolio li{ display: block; margin:0 0 10px 0; font-size: 18px;}
+	.PortfolioListing{ padding: 10px 0 50px 0; }
+	.listPortfolio li a{ display: inline-block; }
+	.listPortfolio li a:after{ bottom: -5px; }
+	.elementInner{ min-height: 180px; }
+
+	.element{ width: 50%; padding: 5px; margin:0;}
+	.assetDesc{ padding: 10px; }
+	.assetDesc h5{ font-size: 12px; }
+	.managementOuter{ padding:50px 10px 40px 10px; }
+	.managementOuter h3{ font-size: 28px; }
+	.managementSliderOuter{ padding: 30px 40px 0 40px; }
+	.mImg{ width: 100px; height: 100px; margin:0 0 15px 0; }
+	.mBox h4{ font-size: 18px; }
+	.mBox h5{ font-size: 14px; }
+	.btnLeft img, .btnRight img{ width: 20px; }
+	.inTheNewsOuter{ padding: 30px 15px; }
+	.inTheNewsOuter h3{ font-size: 28px; }
+	.inTheNewsSliderOuter{ padding: 40px 40px 0 40px; }
+	.linkNews{ }
+	.bxNews{ padding: 0 10px; margin: 0 0 20px 0;}
+	.newsWrap{ max-height: 300px; }
+	.newsLeft{ width: 70px; height: 70px; float: left; margin:0 15px 0 0; }
+	.newsRight p{ font-size: 14px; line-height: 20px; }
+	.contactOuter{ padding: 30px 0;}
+	.contactContent{ padding: 0 10px; }
+	.contactOuter h3{ font-size: 28px; padding: 0 0 30px 0; }
+	.contactBox{ width: 100%; margin:0 0 20px 0; padding: 15px; }
+	.contactBox h4{ font-size: 20px; }
+	.contactBox p{ font-size: 14px; line-height: 20px; }
+	.csOuter{ margin:64px 0 0 0; }
+	.csOuter h2{ display: block; }
+
+	.header h2{ display: none; }
+	.dvAboutContent{ margin:64px 0 0 0; padding: 30px 15px; }
+	.dvAboutContent h2{ display: block;}
+	.dvAboutContent h3{ font-size: 20px; }
+	.dvAboutTopContent h4{ font-size: 16px; padding: 0 0 30px 0; }
+	.dvAboutContent p{ font-size: 15px; line-height: 24px; }
+	.dvCoreValues{ padding: 30px 0; }
+	.dvCoreValues h3{ padding: 0 0 30px 0; }
+	.bxCoreValue{ width: 45%; height: 140px; margin:5px; padding: 10px;}
+	.bxCoreValue h4{ font-size: 32px; line-height: 36px; margin:10px 0 0 0;}
+	.bxCoreValue span{ font-size: 14px; line-height: 20px; }
+	.dvCoreFocus{ padding: 40px 0 30px 0; }
+	.bxCoreFocus{ width: 100%; margin:0 0 15px 0; height: auto; padding: 0 0 20px 0;}
+	.bxCoreFocus h4{ font-size: 20px; }
+	.bxCoreFocus span{ font-size: 18px; line-height: 22px; }
+	.bxCoreValue h5{ font-size: 16px; line-height: 22px; }
+	.Measurables{ padding: 0; }
+	.bxMeasurables{ width: 100%; float: left; text-align: center; margin:0 0 20px 0;}
+	.imgMeasurable{ min-height: auto; margin:0 0 30px 0; }
+	.bxMeasurables h4{ font-size: 22px; line-height: 30px; }
+	.dvMeasures{ margin:0 0 30px 0; }
+
+	.dvIntheNews{ margin:64px 0 0 0; padding: 30px 15px; }
+	.dvIntheNews h3{ font-size: 20px; }
+	.dvIntheNews h4{ font-size: 18px; padding: 0 0 30px 0; }
+	.dvIntheNews p{ font-size: 15px; line-height: 26px; }
+	.dvIntheNews h5{ font-size: 18px; }
+	.dvIntheNews h2{ display: block; }
+
+	.bnrCaseStudies{ margin:64px 0 0 0; }
+	.CaseStudiesOuter{ padding: 30px 15px; margin:64px 0 0 0;}
+	.caseStudyLogo img{ max-width: 130px; }
+	.csCont{ padding: 30px 0 0 0; }
+	.csLeft{ width: 100%; padding: 0; margin:0 0 30px 0;}
+	.csLeft h5{ padding: 0 0 30px 0; }
+	.csRight{ width: 100%; }
+	.csRight img{ width: 100%; }
+	.csOuter{ padding: 30px 0; }
+
+	.modalLeft{ width: 100%; text-align: center; margin:0 0 20px 0;}
+	.modalRight{ width: 100%; height: 250px; overflow: visible; float: left;}
+	.modalContent{ padding: 0 15px 20px 15px; }
+	.modalImg{ height: auto; }
+	.modalImg img{ max-width: 150px;}
+	.modalLeft h4{ font-size: 20px; }
+	.modalLeft h5{ font-size: 16px; }
+	.modalRight p{ font-size: 14px; line-height: 22px; padding: 0 0 20px 0; }
+
+	.footer{ padding: 20px 10px; }
+	.footNav{ display: none; }
+	.footer p{ font-size: 12px; }
+
+	.dvCSLeft{ width: 100%; padding: 20px 0;}
+	.dvCSRight{ width: 100%; float: left; overflow: visible; padding: 20px;}
+	.BA{ margin: 0 0 50px 0;}
+	.bx-prev{ left: 0; top: 50%; transform: translateY(-50%) rotate(-90deg); }
+	.bx-next{ right: 0; top: 50%; left: auto; transform: translateY(-50%) rotate(-90deg);}
+
+	.theNewsLeft{ width: 100%; padding: 0 0 30px 0; border: 0; text-align: center; border-bottom: 2px rgba(255,255,255,0.25) solid; border-right: 0;}
+	.theNewsLeft h4{ font-size: 28px; padding: 0 0 20px 0; }
+	.theNewsLeft p{ font-size: 15px; line-height: 24px; padding: 0 0 20px 0;}
+	.theNewsRight{ width: 100%; float: left; padding: 30px 0 0 0; text-align: left;}
+	.newsTopRow h4{ font-size: 28px; }
+	.newsTopRow a{ font-size: 16px; margin: 10px 0 0 0;}
+
+}
+
+
+@media (min-width:768px) and (max-width:1024px){
+	.header{ background: url(../images/topBannerBg.jpg) top center no-repeat;}
+	.homeBanner{ height: auto; padding: 200px 0; }
+	.taglineOuter{ transform: none; -moz-transform: none; -webkit-transform: none; top: auto;}
+	.dvAboutUs{ padding: 70px 15px; }
+	.assetPortfolioInner{ padding: 0 15px; }
+	.listPortfolio li{ margin:0 15px; }
+	.element{ width: 33%; }
+	.elementInner{ min-height: 250px; }
+	.contactBox{ margin:0 0 10px 5px; }
+	.dvAboutContent{ padding: 50px 20px; }
+	.bxCoreValue{ width: 180px; margin:0 5px 10px 5px; }
+	.bxCoreFocus{ width: 46%; margin:0 10px; }
+	.bxCoreFocus p{ font-size: 18px; line-height: 24px; }
+	.bxMeasurables{ margin:0 35px; }
+	.bxMeasurables h4{ font-size: 22px; line-height: 28px; }
+	.dvIntheNews{ padding: 50px 20px; }
+
+	.modalLeft{ width: 130px; }
+	.modalImg{ height: auto; }
+	.modalLeft h4{ font-size: 20px; }
+	.modalLeft h5{ font-size: 16px; }
+
+	.dvCSLeft{ width: 280px; }
+	.dvCSRight{ padding: 30px; }
+	.BA{ margin: 0 0 50px 0;}
+	.newsWrap{ min-height: 290px; }
+}
+@media (min-width:768px) and (max-width:1024px) and (orientation:landscape){
+	.elementInner{ min-height: 232px; }
+}
+
